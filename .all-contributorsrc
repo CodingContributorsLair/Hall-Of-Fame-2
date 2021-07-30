@@ -32,6 +32,15 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "Programmer005",
+      "name": "Piyush Panchal ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77259664?v=4",
+      "profile": "https://piyush-008.netlify.app/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
