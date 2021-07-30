@@ -13,7 +13,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+
     <td align="center"><a href="https://codingspecies.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CodingSpecies</b></sub></a><br /><a href="#content-CodingSpecies" title="Content">🖋</a></td>
+
+
+    <td align="center"><a href="https://github.com/AvidCoder101"><img src="https://avatars.githubusercontent.com/u/70807684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AvidCoder</b></sub></a><br /><a href="#projectManagement-AvidCoder101" title="Project Management">📆</a></td>
+
+    <td align="center"><a href="http://JayantGoel001.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jayant Goel</b></sub></a><br /><a href="#content-JayantGoel001" title="Content">🖋</a> <a href="https://github.com/CodingContributorsLair/Hall-Of-Fame-2/commits?author=JayantGoel001" title="Documentation">📖</a></td>
+
+
   </tr>
 </table>
 
