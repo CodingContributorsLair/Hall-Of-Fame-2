@@ -59,6 +59,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "kmertzim",
+      "name": "kmertzim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32485861?v=4",
+      "profile": "https://github.com/kmertzim",
+      "contributions": [
+        "content",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
